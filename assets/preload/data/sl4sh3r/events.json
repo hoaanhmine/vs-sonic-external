@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				10105.2631578947,
+				[
+					[
+						"Change Note Splashes",
+						"fireSplash",
+						""
+					]
+				]
+			],
+			[
+				30315.7894736842,
+				[
+					[
+						"RedVG",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				80842.1052631578,
+				[
+					[
+						"Change Character",
+						"dad",
+						"FrontViewSl4sh"
+					],
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

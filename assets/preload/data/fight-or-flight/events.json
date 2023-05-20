@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				15609.756097561,
+				[
+					[
+						"Change Character",
+						"dad",
+						"starved"
+					],
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				44054.2005420054,
+				[
+					[
+						"Change Character",
+						"dad",
+						"starved2"
+					]
+				]
+			],
+			[
+				123514.601638948,
+				[
+					[
+						"Red Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				123519.092656913,
+				[
+					[
+						"fire",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172381.368106014,
+				[
+					[
+						"Red Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				172441.248345535,
+				[
+					[
+						"firenorm",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-tails2"
+					]
+				]
+			]
+		]
+	}
+}

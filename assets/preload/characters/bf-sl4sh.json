@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				622,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleBF"
+		},
+		{
+			"offsets": [
+				595,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				622,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				627,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				622,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf&gf/bf-ycr",
+	"position": [
+		1000,
+		510
+	],
+	"healthicon": "encore-bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		5,
+		108,
+		247
+	],
+	"camera_position": [
+		820,
+		-80
+	],
+	"sing_duration": 6.2,
+	"scale": 5.4
+}

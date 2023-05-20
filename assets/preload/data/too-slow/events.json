@@ -1,0 +1,191 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"0"
+					]
+				]
+			],
+			[
+				41937.3215405066,
+				[
+					[
+						"Light",
+						"Red",
+						""
+					],
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				42141.8669950521,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				42346.4124495975,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				42550.957904143,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				42755.5033586884,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				42960.0488132339,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				43210.0488132339,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				43460.0488132339,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				44210.0488132339,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0.1"
+					]
+				]
+			],
+			[
+				86793.3821465672,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicexedia"
+					]
+				]
+			],
+			[
+				86957.9654799005,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"0.2"
+					]
+				]
+			],
+			[
+				86960.0488132339,
+				[
+					[
+						"Play Animation",
+						"dialouge",
+						"Dad"
+					]
+				]
+			],
+			[
+				94960.0488132338,
+				[
+					[
+						"Goodbye Hud",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				96293.3821465671,
+				[
+					[
+						"Change Scroll Speed",
+						"1.40",
+						"0"
+					]
+				]
+			],
+			[
+				97626.7154799005,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicexe"
+					]
+				]
+			],
+			[
+				139960.048813234,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"Dad"
+					]
+				]
+			],
+			[
+				140293.382146567,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

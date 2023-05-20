@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "exleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "exright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "exdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				171
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "exup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				240
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "exscream",
+			"indices": []
+		},
+		{
+			"offsets": [
+				122,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dia",
+			"indices": [],
+			"name": "exdialouge"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "exidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "exlaugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic_exe_remake",
+	"position": [
+		180,
+		200
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		86,
+		183
+	],
+	"camera_position": [
+		-20,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

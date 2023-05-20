@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-52
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "knuxup",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-161
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "knuxdown",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				94,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "knuxidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-69
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "knuxleft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				-123
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "knuxright",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/knucklessoul",
+	"position": [
+		960,
+		270
+	],
+	"healthicon": "knuckles",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		0,
+		0
+	],
+	"camera_position": [
+		-600,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1.05
+}

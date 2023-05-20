@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "SEXE Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "SEXE Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-29
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "SEXE Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				30
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "SEXE Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-30
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "SEXE Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonicp2/SEXE",
+	"position": [
+		970,
+		370
+	],
+	"healthicon": "pixelsonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		64,
+		64,
+		160
+	],
+	"camera_position": [
+		-320,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

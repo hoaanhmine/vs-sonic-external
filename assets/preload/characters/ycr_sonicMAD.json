@@ -1,0 +1,104 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				253,
+				-7
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "madycrleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				81,
+				113
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "madycrup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				157,
+				70
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "madycrright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				238,
+				11
+			],
+			"loop": false,
+			"anim": "just",
+			"fps": 24,
+			"name": "just",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				68
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "scream",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "madycridle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-58
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "madycrdown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YCR_Mad",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "ycr-pissy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		100
+	],
+	"camera_position": [
+		-200,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

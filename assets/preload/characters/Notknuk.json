@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				572,
+				637
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Knuckleft"
+		},
+		{
+			"offsets": [
+				572,
+				637
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Knuckright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				572,
+				637
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "Knuckleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				572,
+				636
+			],
+			"anim": "cheer",
+			"fps": 24,
+			"name": "Knuckright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Notknuck",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-290,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

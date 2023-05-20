@@ -1,0 +1,32 @@
+<TextureAtlas imagePath="STARVED.png">
+<!--  Created with Adobe Animate version 22.0.7.214  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="DOWN0000" x="0" y="0" width="595" height="488"/>
+<SubTexture name="DOWN0001" x="0" y="0" width="595" height="488"/>
+<SubTexture name="DOWN0002" x="595" y="0" width="595" height="488"/>
+<SubTexture name="DOWN0003" x="595" y="0" width="595" height="488"/>
+<SubTexture name="IDLE0000" x="1190" y="0" width="595" height="488"/>
+<SubTexture name="IDLE0001" x="1190" y="0" width="595" height="488"/>
+<SubTexture name="IDLE0002" x="1785" y="0" width="595" height="488"/>
+<SubTexture name="IDLE0003" x="1785" y="0" width="595" height="488"/>
+<SubTexture name="IDLE0004" x="2380" y="0" width="595" height="488"/>
+<SubTexture name="IDLE0005" x="2380" y="0" width="595" height="488"/>
+<SubTexture name="IDLE0006" x="2975" y="0" width="595" height="488"/>
+<SubTexture name="IDLE0007" x="2975" y="0" width="595" height="488"/>
+<SubTexture name="IDLE0008" x="0" y="488" width="595" height="488"/>
+<SubTexture name="IDLE0009" x="0" y="488" width="595" height="488"/>
+<SubTexture name="IDLE0010" x="595" y="488" width="595" height="488"/>
+<SubTexture name="IDLE0011" x="595" y="488" width="595" height="488"/>
+<SubTexture name="LEFT0000" x="1190" y="488" width="595" height="488"/>
+<SubTexture name="LEFT0001" x="1190" y="488" width="595" height="488"/>
+<SubTexture name="LEFT0002" x="1785" y="488" width="595" height="488"/>
+<SubTexture name="LEFT0003" x="1785" y="488" width="595" height="488"/>
+<SubTexture name="RIGHT0000" x="2380" y="488" width="595" height="488"/>
+<SubTexture name="RIGHT0001" x="2380" y="488" width="595" height="488"/>
+<SubTexture name="RIGHT0002" x="2975" y="488" width="595" height="488"/>
+<SubTexture name="RIGHT0003" x="2975" y="488" width="595" height="488"/>
+<SubTexture name="UP0000" x="0" y="976" width="595" height="488"/>
+<SubTexture name="UP0001" x="0" y="976" width="595" height="488"/>
+<SubTexture name="UP0002" x="595" y="976" width="595" height="488"/>
+<SubTexture name="UP0003" x="595" y="976" width="595" height="488"/>
+</TextureAtlas>

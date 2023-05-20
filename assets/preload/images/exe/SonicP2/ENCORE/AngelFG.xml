@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Angel FG.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AIZ FG idle0000" x="0" y="0" width="640" height="271"/>
+	<SubTexture name="AIZ FG idle0001" x="640" y="0" width="640" height="271"/>
+	<SubTexture name="AIZ FG idle0002" x="1280" y="0" width="640" height="271"/>
+	<SubTexture name="AIZ FG idle0003" x="0" y="271" width="640" height="271"/>
+	<SubTexture name="AIZ FG idle0004" x="640" y="271" width="640" height="271"/>
+	<SubTexture name="AIZ FG idle0005" x="1280" y="271" width="640" height="271"/>
+	<SubTexture name="AIZ FG idle0006" x="0" y="542" width="640" height="271"/>
+	<SubTexture name="AIZ FG idle0007" x="640" y="542" width="640" height="271"/>
+	<SubTexture name="AIZ FG idle0008" x="1280" y="542" width="640" height="271"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-101,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Beast_DOWN"
+		},
+		{
+			"offsets": [
+				-102,
+				156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Beast_UP"
+		},
+		{
+			"offsets": [
+				190,
+				-174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Beast_RIGHT"
+		},
+		{
+			"offsets": [
+				-319,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Beast_LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Symbol 18"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				160
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Beast_UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Xenophanes",
+	"position": [
+		700,
+		-150
+	],
+	"healthicon": "xenophanes",
+	"flip_x": true,
+	"healthbar_colors": [
+		42,
+		5,
+		118
+	],
+	"camera_position": [
+		-410,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

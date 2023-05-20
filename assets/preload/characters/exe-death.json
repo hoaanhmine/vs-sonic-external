@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-560,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "game over dead"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "game over confirm"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-553,
+				-45
+			],
+			"anim": "deathLoop",
+			"fps": 16,
+			"name": "game over loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/game_over",
+	"position": [
+		-260,
+		90
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		680,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 2.4
+}

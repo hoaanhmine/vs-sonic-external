@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-240,
+				-400
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": [
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-240,
+				-380
+			],
+			"anim": "play",
+			"fps": 42,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/starved/Target",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "furnace-og",
+	"flip_x": false,
+	"healthbar_colors": [
+		132,
+		130,
+		132
+	],
+	"camera_position": [
+		-150,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

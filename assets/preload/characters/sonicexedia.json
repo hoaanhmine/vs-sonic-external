@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				111
+			],
+			"anim": "dialouge",
+			"fps": 24,
+			"name": "exdialouge",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "exidle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic_exe_dia",
+	"position": [
+		180,
+		160
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		86,
+		183
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

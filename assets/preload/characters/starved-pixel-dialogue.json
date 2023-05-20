@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-262,
+				-333
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "idle",
+			"indices": [],
+			"name": "talk"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/starved/starved_sheet2",
+	"position": [
+		-40,
+		140
+	],
+	"healthicon": "starved-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		36,
+		0
+	],
+	"camera_position": [
+		-160,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

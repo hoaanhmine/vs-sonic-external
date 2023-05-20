@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Chocolate-Milk", "sunky", [146, 113, 253]],
+		["Cycles", "soylent", [146, 113, 253]],
+		["Endeavors", "majin", [146, 113, 253]],
+		["Prey", "furnace", [146, 113, 253]],
+		["Fight-Or-Flight", "starved", [146, 113, 253]],
+		["Sl4sh3r", "sl4sh", [146, 113, 253]],
+		["Trichael", "trichael", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"difficulties": "Hard",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
